@@ -1,0 +1,27 @@
+_repo: Erzahlungen-aus-der-Romischen-Geschichte-in-biographischer-Form_61988
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stacke, L. (Ludwig)
+    aliases:
+    - Stacke, Ludwig Christoph
+    - Stacke, Ludwig
+    birthdate: 1817
+    deathdate: 1906
+    gutenberg_agent_id: '51713'
+    url: http://www.gutenberg.org/2009/agents/51713
+description: ''
+gutenberg_issued: '2020-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61988'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- History'
+- GITenberg
+title: Erzählungen aus der Römischen Geschichte in biographischer Form
+url: http://www.gutenberg.org/ebooks/61988
